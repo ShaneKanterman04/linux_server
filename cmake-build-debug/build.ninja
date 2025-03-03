@@ -55,8 +55,8 @@ build CMakeFiles/linux_server.dir/src/linux_server.cpp.o: CXX_COMPILER__linux_se
   OBJECT_DIR = CMakeFiles/linux_server.dir
   OBJECT_FILE_DIR = CMakeFiles/linux_server.dir/src
 
-build CMakeFiles/linux_server.dir/src/Tcp_server.cpp.o: CXX_COMPILER__linux_server_unscanned_Debug /home/shane-laptop/linux_server/src/Tcp_server.cpp || cmake_object_order_depends_target_linux_server
-  DEP_FILE = CMakeFiles/linux_server.dir/src/Tcp_server.cpp.o.d
+build CMakeFiles/linux_server.dir/src/Server.cpp.o: CXX_COMPILER__linux_server_unscanned_Debug /home/shane-laptop/linux_server/src/Server.cpp || cmake_object_order_depends_target_linux_server
+  DEP_FILE = CMakeFiles/linux_server.dir/src/Server.cpp.o.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/linux_server.dir
   OBJECT_FILE_DIR = CMakeFiles/linux_server.dir/src
@@ -69,7 +69,7 @@ build CMakeFiles/linux_server.dir/src/Tcp_server.cpp.o: CXX_COMPILER__linux_serv
 #############################################
 # Link the executable linux_server
 
-build linux_server: CXX_EXECUTABLE_LINKER__linux_server_Debug CMakeFiles/linux_server.dir/src/linux_server.cpp.o CMakeFiles/linux_server.dir/src/Tcp_server.cpp.o
+build linux_server: CXX_EXECUTABLE_LINKER__linux_server_Debug CMakeFiles/linux_server.dir/src/linux_server.cpp.o CMakeFiles/linux_server.dir/src/Server.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/linux_server.dir
   POST_BUILD = :

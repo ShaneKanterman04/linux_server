@@ -1,11 +1,14 @@
 # ninja log v6
-2	54	1741041711756623726	build.ninja	c0486c5147cf5995
-0	423	1741039024474826514	CMakeFiles/linux_server.dir/main.cpp.o	e3d34b440029dfe9
-1	409	1741039251065116595	CMakeFiles/linux_server.dir/src/linux_server.cpp.o	10db9560d28295ab
-409	487	1741039251473005225	linux_server	b818ed590e23abb0
-1	33	1741041711756623726	build.ninja	c0486c5147cf5995
-1	435	1741041711769622172	CMakeFiles/linux_server.dir/src/linux_server.cpp.o	10db9560d28295ab
-1	426	1741041729074544944	CMakeFiles/linux_server.dir/src/Tcp_server.cpp.o	72ab100331f717ef
-426	514	1741041729499493736	linux_server	6a7822a28ceadaa3
-2	512	1741042394907559579	CMakeFiles/linux_server.dir/src/linux_server.cpp.o	10db9560d28295ab
 3	573	1741042394908559780	CMakeFiles/linux_server.dir/src/Tcp_server.cpp.o	72ab100331f717ef
+421	508	1741042739453680644	linux_server	b818ed590e23abb0
+2	421	1741042739034732697	CMakeFiles/linux_server.dir/src/linux_server.cpp.o	10db9560d28295ab
+0	423	1741039024474826514	CMakeFiles/linux_server.dir/main.cpp.o	e3d34b440029dfe9
+1	30	1741042883934583906	build.ninja	c0486c5147cf5995
+1	402	1741042917348325935	CMakeFiles/linux_server.dir/src/linux_server.cpp.o	10db9560d28295ab
+1	431	1741042917348325935	CMakeFiles/linux_server.dir/src/Server.cpp.o	9abb18b4d86dc0ad
+431	503	1741042917778338631	linux_server	436e84d137366ad7
+2	448	1741043012548555286	CMakeFiles/linux_server.dir/src/Server.cpp.o	9abb18b4d86dc0ad
+448	519	1741043012994580306	linux_server	436e84d137366ad7
+3	479	1741043179077663930	CMakeFiles/linux_server.dir/src/linux_server.cpp.o	10db9560d28295ab
+5	818	1741043179079664078	CMakeFiles/linux_server.dir/src/Server.cpp.o	9abb18b4d86dc0ad
+819	902	1741043179893724013	linux_server	436e84d137366ad7
