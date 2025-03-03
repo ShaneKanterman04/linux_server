@@ -7,3 +7,5 @@
 1	435	1741041711769622172	CMakeFiles/linux_server.dir/src/linux_server.cpp.o	10db9560d28295ab
 1	426	1741041729074544944	CMakeFiles/linux_server.dir/src/Tcp_server.cpp.o	72ab100331f717ef
 426	514	1741041729499493736	linux_server	6a7822a28ceadaa3
+2	512	1741042394907559579	CMakeFiles/linux_server.dir/src/linux_server.cpp.o	10db9560d28295ab
+3	573	1741042394908559780	CMakeFiles/linux_server.dir/src/Tcp_server.cpp.o	72ab100331f717ef
