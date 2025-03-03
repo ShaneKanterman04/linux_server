@@ -1,0 +1,9 @@
+# ninja log v6
+2	54	1741041711756623726	build.ninja	c0486c5147cf5995
+0	423	1741039024474826514	CMakeFiles/linux_server.dir/main.cpp.o	e3d34b440029dfe9
+1	409	1741039251065116595	CMakeFiles/linux_server.dir/src/linux_server.cpp.o	10db9560d28295ab
+409	487	1741039251473005225	linux_server	b818ed590e23abb0
+1	33	1741041711756623726	build.ninja	c0486c5147cf5995
+1	435	1741041711769622172	CMakeFiles/linux_server.dir/src/linux_server.cpp.o	10db9560d28295ab
+1	426	1741041729074544944	CMakeFiles/linux_server.dir/src/Tcp_server.cpp.o	72ab100331f717ef
+426	514	1741041729499493736	linux_server	6a7822a28ceadaa3
